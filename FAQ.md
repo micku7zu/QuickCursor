@@ -1,18 +1,6 @@
 # FAQ (Frequently asked questions)
 
-Q: **How to pull down the notification bar?**
-
-A: In the free version, move the cursor above the status bar.
-In the pro version, move the cursor above the status bar in the left part. If you want to pull down the quick settings, move the cursor above the status bar in the right part.
-This edge actions are configurable in the PRO version. You can check them in Settings -> Edge actions.
-
----
-
-Q: **How to drag &amp; drop, swipe or other complex gestures?**
-
-A: Go to Settings -> Tap behaviour -> Tap mode and choose "Advanced".
-When you long tap the tracker, it will act as a gesture recorder and all your movements will be recorded until you release the tracker. The gesture will replayed on the screen at the cursor position, exactly like you moved the tracker. The gesture replay is smooth in Android 11 and it is a little laggy on older versions (7, 8, 9, 10).
-
+### TO BE UPDATED WITH USEFUL INFORMATIONS
 
 Q: **I like the app and I want to help you. How can I help?**
 
