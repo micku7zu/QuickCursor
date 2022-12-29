@@ -1,3 +1,13 @@
+## Table of Contents
+
+<a href="#how-to-pull-down-the-notification-bar">1. How to pull down the notification bar</a>
+
+<a href="#chrome-tab-switcher-changes-to-list">2. Chrome tab switcher changes to list</a>
+
+<a href="#google-chrome-ui-changes-when-quick-cursor-is-enabled">3. Google Chrome UI changes when Quick Cursor is enabled</a>
+
+---
+
 # Frequently asked questions and issues
 
 1. ## How to pull down the notification bar?
@@ -11,6 +21,8 @@ Move the cursor above the status bar. The default top edge action is "Notificati
 </details>
 
 If you have the PRO version, you can change the action to something else. Go to Quick Cursor Settings -> Edge actions.
+
+---
 
 2. ## [Chrome tab switcher changes to list](https://github.com/micku7zu/QuickCursor/issues/2)
 Go to Google Chrome Settings -> Accessibility -> Disable "**Simplified view for open tabs**". 
