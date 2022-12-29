@@ -1,41 +1,8 @@
-# FAQ (Frequently asked questions)
+# Frequently asked questions and issues
 
-### TO BE UPDATED WITH USEFUL INFORMATIONS
+## [Chrome tab switcher changes to list](https://github.com/micku7zu/QuickCursor/issues/2)
+Go to Google Chrome Settings -> Accessibility -> Disable "**Simplified view for open tabs**". 
 
-Q: **I like the app and I want to help you. How can I help?**
-
-A: Join the telegram group [https://t.me/quickcursor](https://t.me/quickcursor) to help me test the builds before releasing them to public.
-Don\'t forget to share the app with your friends!
+More details about this Chrome issue here: https://github.com/micku7zu/QuickCursor/issues/2
 
 ---
-
-# Troubleshooting
-Bug: **The app stops working after some time**
-
-Solution: Some manufacturers (Xiaomi, Huawei, and others) are killing the background apps even when the user doesn\'t want that, so the user must do some tricks to disable that.
-Each manufacturer has his own settings, you can check more details about this here: [https://dontkillmyapp.com](https://dontkillmyapp.com)
-
----
-
-Bug: **Tap / Click stopped working or never worked at all**
-
-Possible solutions:
-* restart the Quick Cursor accessibility service
-* force stop the app from the phone settings and start the accessibility service again
-* restart the device (this worked on many devices)
-* some other accessibility services are blocking the Quick Cursor accessibility service and the app doesn\'t work. This can be fixed only by manual uninstalling other accessibility services.
-
-Unfortunately, in some rare cases on some devices, the accessibility service can\'t tap or click on behalf of user because of unknown reasons.
-If you are in this situation, there is no fix for the moment, but please send me your device model and Android version to gather more data why this happens. You can contact me from within "About" section.
-
----
-
-Bug: **"Open settings" from Quick actions doesn\'t work on MIUI**
-
-Solution: Enable \"Display pop-up while in background\" permission for Quick Cursor from MIUI settings.
-
----
-
-Bug: **"The trigger does not work on OnePlus device with Oxygen OS gesture navigation**
-
-Solution: Try to swipe vertically on the trigger area, from bottom to top when you try to get the cursor. This is a known reported bug in Oxygen OS implementation: [https://forums.oneplus.com/threads/system-gesture-implementation-issue.1246522/](https://forums.oneplus.com/threads/system-gesture-implementation-issue.1246522/). I can't fix this because they implemented wrong the gesture navigation. We must wait for them to fix it.
