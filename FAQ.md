@@ -38,6 +38,10 @@ Long tap the tracker and record your gesture. When you release the tracker the g
 [Gesture replication video demo](https://user-images.githubusercontent.com/3103859/210020310-3dd2266a-e1a3-495f-ac59-604ba420a119.mp4)
 </details>
 
+Issues:
+- [Simulate gestures in real time](https://github.com/micku7zu/QuickCursor/issues/4)
+- Gesture replication is smoother on Android 11+ devices. Android 7-10 replication is not that smooth. 
+
 ---
 
 3. ### [Chrome tab switcher changes to list](https://github.com/micku7zu/QuickCursor/issues/2)
