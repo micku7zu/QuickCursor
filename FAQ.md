@@ -9,6 +9,6 @@ More details about this Chrome issue here: https://github.com/micku7zu/QuickCurs
 
 2. ## [Google Chrome UI changes when Quick Cursor is enabled](https://github.com/micku7zu/QuickCursor/issues/3)
 
-Chrome automatically detects when an accessibility service with touch permission is enabled and changes its UI without the possibility to revert this.
+Chrome automatically detects when an accessibility service with touch permission is enabled and changes its UI without the possibility to choose if the user wants that or not.
 
 More details about this Chrome issue here: https://github.com/micku7zu/QuickCursor/issues/3
