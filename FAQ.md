@@ -4,7 +4,7 @@
 
 <a href="#how-to-swipe-drag--drop-or-other-gestures">2. How to swipe, drag & drop or other gestures?</a>
 
-<a href="#the-application-is-stopped-after-some-time">The application is stopped after some time</a>
+<a href="#the-application-is-stopped-after-some-time">3. The application is stopped after some time</a>
 
 <a href="#chrome-tab-switcher-changes-to-list">5. Chrome tab switcher changes to list</a>
 
