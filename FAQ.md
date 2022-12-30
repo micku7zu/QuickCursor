@@ -6,7 +6,7 @@
 
 <a href="#the-application-is-stopped-after-some-time">3. The application is stopped after some time</a>
 
-<a href="#chrome-tab-switcher-changes-to-list">5. Chrome tab switcher changes to list</a>
+<a href="#chrome-tab-switcher-changes-to-list">4. Chrome tab switcher changes to list</a>
 
 <a href="#google-chrome-ui-changes-when-quick-cursor-is-enabled">5. Google Chrome UI changes when Quick Cursor is enabled</a>
 
