@@ -12,6 +12,8 @@
 
 <a href="#google-chrome-ui-changes-when-quick-cursor-is-enabled">6. Google Chrome UI changes when Quick Cursor is enabled</a>
 
+<a href="#open-settings-from-quick-actions-doesnt-work-on-miui">7. "Open settings" from Quick actions doesn't work on MIUI</a>
+
 ---
 
 # Frequently asked questions and issues
@@ -77,3 +79,7 @@ More details about this Chrome issue [here](https://github.com/micku7zu/QuickCur
 Chrome automatically detects when an accessibility service with touch permission is enabled and changes its UI without the possibility to choose if the user wants that or not.
 
 More details about this Chrome issue [here](https://github.com/micku7zu/QuickCursor/issues/3).
+
+7. ### "Open settings" from Quick actions doesn't work on MIUI
+
+Enable "Display pop-up while in background" permission for Quick Cursor from MIUI settings. [Screenshot](https://user-images.githubusercontent.com/3103859/210067987-5951f2e6-9d34-4a57-b03d-4a5544560a8e.png)
