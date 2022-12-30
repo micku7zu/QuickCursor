@@ -4,9 +4,11 @@
 
 <a href="#how-to-swipe-drag--drop-or-other-gestures">2. How to swipe, drag & drop or other gestures?</a>
 
-<a href="#chrome-tab-switcher-changes-to-list">3. Chrome tab switcher changes to list</a>
+<a href="#the-application-is-stopped-after-some-time">The application is stopped after some time</a>
 
-<a href="#google-chrome-ui-changes-when-quick-cursor-is-enabled">4. Google Chrome UI changes when Quick Cursor is enabled</a>
+<a href="#chrome-tab-switcher-changes-to-list">5. Chrome tab switcher changes to list</a>
+
+<a href="#google-chrome-ui-changes-when-quick-cursor-is-enabled">5. Google Chrome UI changes when Quick Cursor is enabled</a>
 
 ---
 
@@ -44,15 +46,25 @@ Issues:
 
 ---
 
-3. ### [Chrome tab switcher changes to list](https://github.com/micku7zu/QuickCursor/issues/2)
+
+3. ### [The application is stopped after some time](https://github.com/micku7zu/QuickCursor/issues/5)
+
+Some manufacturers (Xiaomi, Huawei, Samsung and others) are stopping background apps (like Quick Cursor) even when the user doesn't want this.
+
+The solution is to **lock the app in memory** and **disable all battery optimization for Quick Cursor**. The app doesn't crash in the background, it is stopped by your device!
+
+More details about this issue [here](https://github.com/micku7zu/QuickCursor/issues/5).
+
+
+4. ### [Chrome tab switcher changes to list](https://github.com/micku7zu/QuickCursor/issues/2)
 Go to Google Chrome Settings -> Accessibility -> Disable "**Simplified view for open tabs**". 
 
-More details about this Chrome issue here: https://github.com/micku7zu/QuickCursor/issues/2
+More details about this Chrome issue [here](https://github.com/micku7zu/QuickCursor/issues/2).
 
 ---
 
-4. ### [Google Chrome UI changes when Quick Cursor is enabled](https://github.com/micku7zu/QuickCursor/issues/3)
+5. ### [Google Chrome UI changes when Quick Cursor is enabled](https://github.com/micku7zu/QuickCursor/issues/3)
 
 Chrome automatically detects when an accessibility service with touch permission is enabled and changes its UI without the possibility to choose if the user wants that or not.
 
-More details about this Chrome issue here: https://github.com/micku7zu/QuickCursor/issues/3
+More details about this Chrome issue [here](https://github.com/micku7zu/QuickCursor/issues/3).
