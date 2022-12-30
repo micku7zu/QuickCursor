@@ -2,7 +2,7 @@
 
 Makes it easier to use large smartphones with one hand by introducing a computer like cursor controlled with one finger by swiping from edge of the screen.
 
-https://play.google.com/store/apps/details?id=com.quickcursor
+Install from [Play Store](https://play.google.com/store/apps/details?id=com.quickcursor) or [APK Mirror](https://www.apkmirror.com/apk/sergiu-sandor/quick-cursor-one-hand-mouse-pointer/).
 
 <details>
   <summary>Quick Cursor video demo</summary>
@@ -18,4 +18,16 @@ https://play.google.com/store/apps/details?id=com.quickcursor
 <img src="https://user-images.githubusercontent.com/3103859/210022438-d80a1e06-d2d5-4928-921e-5af6aa966d16.png" height="500" />
 </details>
 
-### [Frequently asked questions](https://github.com/micku7zu/QuickCursor/blob/main/FAQ.md)
+---
+
+## Feedback
+
+Telegram group: https://t.me/quickcursor
+
+XDA: https://forum.xda-developers.com/android/apps-games/app-quick-cursor-one-hand-mouse-pointer-t4088487
+
+Reddit: https://reddit.com/r/quickcursor/
+
+Github: https://github.com/micku7zu/QuickCursor/
+
+Email: quickcursor@protonmail.com
