@@ -49,7 +49,7 @@ Long tap the tracker and record your gesture. When you release the tracker the g
 </details>
 
 Issues:
-- [Simulate gestures in real time](https://github.com/micku7zu/QuickCursor/issues/4)
+- [Gestures are not replicated in real time](https://github.com/micku7zu/QuickCursor/issues/4)
 - Gesture replication is smoother on Android 11+ devices. Android 7-10 replication is not that smooth. 
 
 <br/><br/>
