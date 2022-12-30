@@ -73,7 +73,7 @@ More details about this issue [here](https://github.com/micku7zu/QuickCursor/iss
 
 5. ### [Triggers don't work with OnePlus (Oppo, Realme) gesture navigation](https://github.com/micku7zu/QuickCursor/issues/7)
 
-This is a Oxygen OS (Color OS, Realme UI) bug raised in their forums but they don't fix it.
+This is an Oxygen OS (Color OS, Realme UI) bug raised in their forums but they don't fix it.
 
 A workaround is to swipe vertically on the screen margin (bottom to top). [Demo video](https://user-images.githubusercontent.com/3103859/210069142-98d8f4c5-7521-4850-b438-9037460e1ccd.mp4)
 
