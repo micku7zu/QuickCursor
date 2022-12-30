@@ -1,3 +1,5 @@
+# Frequently asked questions and issues
+
 ## Table of Contents
 
 <a href="#1-how-to-pull-down-the-notification-bar">1. How to pull down the notification bar</a>
@@ -16,9 +18,7 @@
 
 <a href="#8-open-settings-from-quick-actions-doesnt-work-on-miui">8. "Open settings" from Quick actions doesn't work on MIUI</a>
 
----
-
-# Frequently asked questions and issues
+<br />
 
 ## 1. How to pull down the notification bar?
 
