@@ -98,3 +98,11 @@ More details about this Chrome issue [here](https://github.com/micku7zu/QuickCur
 ## 8. "Open settings" from Quick actions doesn't work on MIUI
 
 Enable "Display pop-up while in background" permission for Quick Cursor from MIUI settings. [Screenshot](https://user-images.githubusercontent.com/3103859/210067987-5951f2e6-9d34-4a57-b03d-4a5544560a8e.png)
+
+<br/><br/>
+
+## 9. How can I help?
+
+- Join the [Telegram group t.me/quickcursor](https://t.me/quickcursor) to help me test the beta builds before releasing them to public.
+- Help with translations on [QuickCursor.oneskyapp.com](https://quickcursor.oneskyapp.com/collaboration/project?id=182364). If you need help, contact me on [Telegram](https://t.me/quickcursor) or [Email](mailto:quickcursor@protonmail.com)
+- Send feedback: bugs, issues, improvement ideas or anything else you think could help me make the app better
