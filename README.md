@@ -4,7 +4,18 @@ Makes it easier to use large smartphones with one hand by introducing a computer
 
 https://play.google.com/store/apps/details?id=com.quickcursor
 
-
-
+<details>
+  <summary>Quick Cursor video demo</summary>
+  
 [Quick Cursor Demo](https://user-images.githubusercontent.com/3103859/210022395-94d21a7e-ec3e-4a22-a507-99cc22327ea8.mp4)
+</details>
 
+<details>
+  <summary>Screenshots</summary>
+  
+<img src="https://user-images.githubusercontent.com/3103859/210022451-7464cdd6-5288-46a0-ab05-c99ff4eaccd3.png" height="500" />
+<img src="https://user-images.githubusercontent.com/3103859/210022459-7611714f-2a5b-405e-9cde-66030e723502.png" height="500" />
+<img src="https://user-images.githubusercontent.com/3103859/210022438-d80a1e06-d2d5-4928-921e-5af6aa966d16.png" height="500" />
+</details>
+
+### [Frequently asked questions](https://github.com/micku7zu/QuickCursor/blob/main/FAQ.md)
