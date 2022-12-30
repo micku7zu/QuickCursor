@@ -20,7 +20,7 @@
 
 # Frequently asked questions and issues
 
-### 1. How to pull down the notification bar?
+## 1. How to pull down the notification bar?
 
 Move the cursor above the status bar. The default top edge action is "Notifications", which opens the notifications panel.
 
@@ -32,9 +32,9 @@ Move the cursor above the status bar. The default top edge action is "Notificati
 
 If you have the PRO version, you can change the action to something else. Go to Quick Cursor Settings -> Edge actions.
 
----
+<br/><br/>
 
-### 2. How to swipe, drag & drop or other gestures?
+## 2. How to swipe, drag & drop or other gestures?
 
 **PRO users only.** Go to Quick Cursor Settings -> Tap behaviour -> Long tap mode -> **Gesture replication**.
 
@@ -50,10 +50,9 @@ Issues:
 - [Simulate gestures in real time](https://github.com/micku7zu/QuickCursor/issues/4)
 - Gesture replication is smoother on Android 11+ devices. Android 7-10 replication is not that smooth. 
 
----
+<br/><br/>
 
-
-### 3. The application is stopped after some time
+## 3. The application is stopped after some time
 
 Some manufacturers (Xiaomi, Huawei, Samsung and others) are stopping background apps (like Quick Cursor) even when the user doesn't want this.
 
@@ -61,17 +60,17 @@ The solution is to **lock the app in memory** and **disable all battery optimiza
 
 More details about this issue [here](https://github.com/micku7zu/QuickCursor/issues/5).
 
----
+<br/><br/>
 
-### 4. The click doesn't work on Samsung
+## 4. The click doesn't work on Samsung
 
 Disable Samsung "**One-Handed mode**" and uninstall Samsung "**One Hand Operation +**" app. Restart the device.
 
 More details about this issue [here](https://github.com/micku7zu/QuickCursor/issues/6).
 
----
+<br/><br/>
 
-### 5. Triggers don't work with OnePlus (Oppo, Realme) gesture navigation
+## 5. Triggers don't work with OnePlus (Oppo, Realme) gesture navigation
 
 This is an Oxygen OS (Color OS, Realme UI) bug raised in their forums but they don't fix it.
 
@@ -79,23 +78,23 @@ A workaround is to swipe vertically on the screen margin (bottom to top). [Demo 
 
 More details and possible workarounds about this issue [here](https://github.com/micku7zu/QuickCursor/issues/7).
 
----
+<br/><br/>
 
-### 6. Chrome tab switcher changes to list
+## 6. Chrome tab switcher changes to list
 Go to Google Chrome Settings -> Accessibility -> Disable "**Simplified view for open tabs**". 
 
 More details about this Chrome issue [here](https://github.com/micku7zu/QuickCursor/issues/2).
 
----
+<br/><br/>
 
-### 7. Google Chrome UI changes when Quick Cursor is enabled
+## 7. Google Chrome UI changes when Quick Cursor is enabled
 
 Chrome automatically detects when an accessibility service with touch permission is enabled and changes its UI without the possibility to choose if the user wants that or not.
 
 More details about this Chrome issue [here](https://github.com/micku7zu/QuickCursor/issues/3).
 
----
+<br/><br/>
 
-### 8. "Open settings" from Quick actions doesn't work on MIUI
+## 8. "Open settings" from Quick actions doesn't work on MIUI
 
 Enable "Display pop-up while in background" permission for Quick Cursor from MIUI settings. [Screenshot](https://user-images.githubusercontent.com/3103859/210067987-5951f2e6-9d34-4a57-b03d-4a5544560a8e.png)
