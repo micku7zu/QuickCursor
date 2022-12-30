@@ -6,9 +6,11 @@
 
 <a href="#the-application-is-stopped-after-some-time">3. The application is stopped after some time</a>
 
-<a href="#chrome-tab-switcher-changes-to-list">4. Chrome tab switcher changes to list</a>
+<a href="#the-click-doesnt-work-on-samsung">4. The click doesn't work on Samsung</a>
 
-<a href="#google-chrome-ui-changes-when-quick-cursor-is-enabled">5. Google Chrome UI changes when Quick Cursor is enabled</a>
+<a href="#chrome-tab-switcher-changes-to-list">5. Chrome tab switcher changes to list</a>
+
+<a href="#google-chrome-ui-changes-when-quick-cursor-is-enabled">6. Google Chrome UI changes when Quick Cursor is enabled</a>
 
 ---
 
@@ -55,15 +57,22 @@ The solution is to **lock the app in memory** and **disable all battery optimiza
 
 More details about this issue [here](https://github.com/micku7zu/QuickCursor/issues/5).
 
+---
 
-4. ### [Chrome tab switcher changes to list](https://github.com/micku7zu/QuickCursor/issues/2)
+4. ### [The click doesn't work on Samsung](https://github.com/micku7zu/QuickCursor/issues/6)
+
+Disable Samsung "**One-Handed mode**" and uninstall Samsung "**One Hand Operation +**" app. Restart the device.
+
+More details about this issue [here](https://github.com/micku7zu/QuickCursor/issues/6).
+
+5. ### [Chrome tab switcher changes to list](https://github.com/micku7zu/QuickCursor/issues/2)
 Go to Google Chrome Settings -> Accessibility -> Disable "**Simplified view for open tabs**". 
 
 More details about this Chrome issue [here](https://github.com/micku7zu/QuickCursor/issues/2).
 
 ---
 
-5. ### [Google Chrome UI changes when Quick Cursor is enabled](https://github.com/micku7zu/QuickCursor/issues/3)
+6. ### [Google Chrome UI changes when Quick Cursor is enabled](https://github.com/micku7zu/QuickCursor/issues/3)
 
 Chrome automatically detects when an accessibility service with touch permission is enabled and changes its UI without the possibility to choose if the user wants that or not.
 
