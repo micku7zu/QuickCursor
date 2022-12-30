@@ -18,6 +18,8 @@
 
 <a href="#8-open-settings-from-quick-actions-doesnt-work-on-miui">8. "Open settings" from Quick actions doesn't work on MIUI</a>
 
+<a href="#9-how-can-i-help">9. How can I help?</a>
+
 <br />
 
 ## 1. How to pull down the notification bar?
