@@ -6,7 +6,7 @@
 
 <a href="#2-how-to-swipe-drag--drop-or-other-gestures">2. How to swipe, drag & drop or other gestures?</a>
 
-<a href="#3-the-application-is-stopped-after-some-time">3. The application is stopped after some time</a>
+<a href="#3-the-application-stops-after-some-time">3. The application stops after some time</a>
 
 <a href="#4-the-click-doesnt-work-on-samsung">4. The click doesn't work on Samsung</a>
 
@@ -54,7 +54,7 @@ Issues:
 
 <br/><br/>
 
-## 3. The application is stopped after some time
+## 3. The application stops after some time
 
 Some manufacturers (Xiaomi, Huawei, Samsung and others) are stopping background apps (like Quick Cursor) even when the user doesn't want this.
 
