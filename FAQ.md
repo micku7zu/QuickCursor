@@ -8,11 +8,13 @@
 
 <a href="#the-click-doesnt-work-on-samsung">4. The click doesn't work on Samsung</a>
 
-<a href="#chrome-tab-switcher-changes-to-list">5. Chrome tab switcher changes to list</a>
+<a href="#triggers-dont-work-with-oneplus-oppo-realme-gesture-navigation">5. Triggers don't work with OnePlus (Oppo, Realme) gesture navigation</a>
 
-<a href="#google-chrome-ui-changes-when-quick-cursor-is-enabled">6. Google Chrome UI changes when Quick Cursor is enabled</a>
+<a href="#chrome-tab-switcher-changes-to-list">6. Chrome tab switcher changes to list</a>
 
-<a href="#open-settings-from-quick-actions-doesnt-work-on-miui">7. "Open settings" from Quick actions doesn't work on MIUI</a>
+<a href="#google-chrome-ui-changes-when-quick-cursor-is-enabled">7. Google Chrome UI changes when Quick Cursor is enabled</a>
+
+<a href="#open-settings-from-quick-actions-doesnt-work-on-miui">8. "Open settings" from Quick actions doesn't work on MIUI</a>
 
 ---
 
@@ -67,19 +69,31 @@ Disable Samsung "**One-Handed mode**" and uninstall Samsung "**One Hand Operatio
 
 More details about this issue [here](https://github.com/micku7zu/QuickCursor/issues/6).
 
-5. ### [Chrome tab switcher changes to list](https://github.com/micku7zu/QuickCursor/issues/2)
+---
+
+5. ### [Triggers don't work with OnePlus (Oppo, Realme) gesture navigation](https://github.com/micku7zu/QuickCursor/issues/7)
+
+This is a Oxygen OS (Color OS, Realme UI) bug raised in their forums but they don't fix it.
+
+A workaround is to swipe vertically on the screen margin (bottom to top). [Demo video](https://user-images.githubusercontent.com/3103859/210069142-98d8f4c5-7521-4850-b438-9037460e1ccd.mp4)
+
+More details and possible workarounds about this issue [here](https://github.com/micku7zu/QuickCursor/issues/7).
+
+---
+
+6. ### [Chrome tab switcher changes to list](https://github.com/micku7zu/QuickCursor/issues/2)
 Go to Google Chrome Settings -> Accessibility -> Disable "**Simplified view for open tabs**". 
 
 More details about this Chrome issue [here](https://github.com/micku7zu/QuickCursor/issues/2).
 
 ---
 
-6. ### [Google Chrome UI changes when Quick Cursor is enabled](https://github.com/micku7zu/QuickCursor/issues/3)
+7. ### [Google Chrome UI changes when Quick Cursor is enabled](https://github.com/micku7zu/QuickCursor/issues/3)
 
 Chrome automatically detects when an accessibility service with touch permission is enabled and changes its UI without the possibility to choose if the user wants that or not.
 
 More details about this Chrome issue [here](https://github.com/micku7zu/QuickCursor/issues/3).
 
-7. ### "Open settings" from Quick actions doesn't work on MIUI
+8. ### "Open settings" from Quick actions doesn't work on MIUI
 
 Enable "Display pop-up while in background" permission for Quick Cursor from MIUI settings. [Screenshot](https://user-images.githubusercontent.com/3103859/210067987-5951f2e6-9d34-4a57-b03d-4a5544560a8e.png)
