@@ -38,14 +38,14 @@ If you have the PRO version, you can change the action to something else. Go to 
 
 ## 2. How to swipe, drag & drop or other gestures?
 
-**PRO users only.** Go to Quick Cursor Settings -> Tap behaviour -> Long tap mode -> **Gesture replication**.
+**PRO users only.** Go to Quick Cursor Settings -> Tap behaviour -> Long tap action -> **Start gesture recorder**.
 
 Long tap the tracker and record your gesture. When you release the tracker the gesture will be replayed at the cursor position. 
 
 <details>
   <summary>Gesture replication video demo</summary>
-  
-[Gesture replication video demo](https://user-images.githubusercontent.com/3103859/210020310-3dd2266a-e1a3-495f-ac59-604ba420a119.mp4)
+
+[Gesture replication video demo](https://user-images.githubusercontent.com/3103859/215866130-27d91513-f70f-4728-80a2-78a4c059b2b3.mp4)
 </details>
 
 Issues:
