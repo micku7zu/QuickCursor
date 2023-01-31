@@ -7,7 +7,7 @@ Install from [Play Store](https://play.google.com/store/apps/details?id=com.quic
 <details>
   <summary>Quick Cursor video demo</summary>
   
-[Quick Cursor Demo](https://user-images.githubusercontent.com/3103859/210022395-94d21a7e-ec3e-4a22-a507-99cc22327ea8.mp4)
+[Quick Cursor Demo](https://user-images.githubusercontent.com/3103859/215864087-51b31625-d1cc-4aaa-8b39-a73990dd2350.mp4)
 </details>
 
 <details>
