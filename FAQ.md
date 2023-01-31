@@ -38,7 +38,9 @@ If you have the PRO version, you can change the action to something else. Go to 
 
 ## 2. How to swipe, drag & drop or other gestures?
 
-**PRO users only.** Go to Quick Cursor Settings -> Tap behaviour -> Long tap action -> **Start gesture recorder**.
+**PRO users only.** 
+
+Go to Quick Cursor Settings -> Tap behaviour -> Long tap action -> **Start gesture recorder**.
 
 Long tap the tracker and record your gesture. When you release the tracker the gesture will be replayed at the cursor position. 
 
@@ -51,6 +53,19 @@ Long tap the tracker and record your gesture. When you release the tracker the g
 Issues:
 - [Gestures are not replicated in real time](https://github.com/micku7zu/QuickCursor/issues/4)
 - Gesture replication is smoother on Android 11+ devices. Android 7-10 replication is not that smooth. 
+
+<hr />
+
+**There are also some prerecorded** gestures available that can be dispatched instantly.
+
+Go to Quick Cursor Settings -> Tap behaviour -> Long tap action -> **Open tracker actions once**
+
+Long tap the tracker and select the gesture you want (swipe left, right, top, bottom).
+<details>
+  <summary>Tracker actions swipes video demo</summary>
+
+[Tracker actions swipes](https://user-images.githubusercontent.com/3103859/215867497-3ab2c5d8-c8ee-47cb-9d8b-c99fe6a6b08b.mp4)
+</details>
 
 <br/><br/>
 
