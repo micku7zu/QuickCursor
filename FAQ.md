@@ -18,7 +18,9 @@
 
 <a href="#8-open-settings-from-quick-actions-doesnt-work-on-miui">8. "Open settings" from Quick actions doesn't work on MIUI</a>
 
-<a href="#9-how-can-i-help">9. How can I help?</a>
+<a href="#9-change-volume-action-doesnt-work-on-oneplusopporealme">9. Change volume action doesn't work on OnePlus/Oppo/Realme</a>
+
+<a href="#10-how-can-i-help">10. How can I help?</a>
 
 <br />
 
@@ -118,7 +120,16 @@ Enable "Display pop-up while in background" permission for Quick Cursor from MIU
 
 <br/><br/>
 
-## 9. How can I help?
+## 9. Change volume action doesn't work on OnePlus/Oppo/Realme
+
+The "Change volume" action doesn't work outside of Quick Cursor app on OnePlus/Oppo/Realme device.
+This issue happens only on Oxygen OS, Color OS and Realme UI (all 3 are based on the same system).
+
+[This is currently being investigated](https://github.com/micku7zu/QuickCursor/issues/12). I don't have more details on it yet.
+
+<br/><br/>
+
+## 10. How can I help?
 
 - Join the [Telegram group t.me/quickcursor](https://t.me/quickcursor) to help me test the beta builds before releasing them to public.
 - Help with translations on [QuickCursor.oneskyapp.com](https://quickcursor.oneskyapp.com/collaboration/project?id=182364). If you need help, contact me on [Telegram](https://t.me/quickcursor) or [Email](mailto:quickcursor@protonmail.com)
