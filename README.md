@@ -31,3 +31,7 @@ Reddit: https://reddit.com/r/quickcursor/
 Github: https://github.com/micku7zu/QuickCursor/
 
 Email: quickcursor@protonmail.com
+
+## Translation help
+
+Help with translations on https://quickcursor.app/translate
