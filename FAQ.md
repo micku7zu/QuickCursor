@@ -132,5 +132,5 @@ This issue happens only on Oxygen OS, Color OS and Realme UI (all 3 are based on
 ## 10. How can I help?
 
 - Join the [Telegram group t.me/quickcursor](https://t.me/quickcursor) to help me test the beta builds before releasing them to public.
-- Help with translations on [QuickCursor.oneskyapp.com](https://quickcursor.oneskyapp.com/collaboration/project?id=182364). If you need help, contact me on [Telegram](https://t.me/quickcursor) or [Email](mailto:quickcursor@protonmail.com)
+- Help with translations on https://quickcursor.app/translate. If you need help, contact me on [Telegram](https://t.me/quickcursor) or [Email](mailto:quickcursor@protonmail.com)
 - Send feedback: bugs, issues, improvement ideas or anything else you think could help me make the app better
