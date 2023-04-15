@@ -128,12 +128,14 @@
             opacity: 0.9;
 
             border-radius: 5px;
+
+            background: linear-gradient(90deg, rgba(44,62,80,0) 0%, rgba(44,62,80,0.2) 50%, rgba(44,62,80,0) 100%);
         }
 
         .icon {
             display: inline-block;
-            width: 14pt;
-            height: 14pt;
+            width: 16pt;
+            height: 16pt;
             margin-right: 2px;
             vertical-align: middle;
 
@@ -146,18 +148,38 @@
             mask: url(mail.svg) no-repeat center;
         }
 
+        .faq-icon {
+            background-color: #e9b6b3;
+            -webkit-mask: url(faq.svg) no-repeat center;
+            -webkit-mask-size: contain;
+            mask: url(faq.svg) no-repeat center;
+            mask-size: contain;
+        }
+
+        .translate-icon {
+            background-color: #e9b6b3;
+            -webkit-mask: url(translate.svg) no-repeat center;
+            -webkit-mask-size: contain;
+            mask: url(translate.svg) no-repeat center;
+            mask-size: contain;
+        }
+
         .telegram-icon {
             background-image: url("telegram.svg");
-            background-size: contain;
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            background-position: center;
         }
 
         #contact a:hover {
             color: white;
             opacity: 1;
-            background-color: rgba(44, 62, 80, 0.9);
+            background: rgba(44, 62, 80, 0.9);
         }
 
-        #contact a:hover .mail-icon {
+        #contact a:hover .mail-icon,
+        #contact a:hover .translate-icon,
+        #contact a:hover .faq-icon {
             background-color: white;
         }
     </style>
@@ -193,6 +215,16 @@
         <a id="telegram" href="https://t.me/quickcursor" title="Quick Cursor Telegram group">
             <span class="icon telegram-icon"></span>
             t.me/quickcursor
+        </a>
+
+        <a id="translate" href="https://quickcursor.app/translate" title="Translate">
+            <span class="icon translate-icon"></span>
+            Translate
+        </a>
+
+        <a id="faq" href="https://quickcursor.app/faq" title="FAQ">
+            <span class="icon faq-icon"></span>
+            F.A.Q.
         </a>
     </div>
 </div>
