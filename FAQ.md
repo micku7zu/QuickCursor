@@ -20,8 +20,9 @@
 
 <a href="#9-change-volume-action-doesnt-work-on-oneplusopporealme">9. Change volume action doesn't work on OnePlus/Oppo/Realme</a>
 
-<a href="#10-how-can-i-help">10. How can I help?</a>
+<a href="#10-the-click-doesnt-work-on-pixel-android-15">10. The click doesn't work on Pixel Android 15</a>
 
+<a href="#11-how-can-i-help">11. How can I help?</a>
 <br />
 
 ## 1. How to pull down the notification bar?
@@ -129,7 +130,21 @@ This issue happens only on Oxygen OS, Color OS and Realme UI (all 3 are based on
 
 <br/><br/>
 
-## 10. How can I help?
+## 10. The click doesn't work on Pixel Android 15
+
+This is an OS bug [confirmed by Google](https://issuetracker.google.com/issues/384188031) and they are working on a fix. This bug affects other apps as well. It is not Quick Cursor specific.
+
+Workaround:
+
+1. Assign a "Multi tap" action with 2 simultaneous taps as an Edge action, Tracker action, or Tracker long tap action
+2. When the click stops working, trigger that action once
+3. The click should start working again
+
+More details here: https://github.com/micku7zu/QuickCursor/issues/29
+
+<br/><br/>
+
+## 11. How can I help?
 
 - Join the [Telegram group t.me/quickcursor](https://t.me/quickcursor) to help me test the beta builds before releasing them to public.
 - Help with translations on https://quickcursor.app/translate. If you need help, contact me on [Telegram](https://t.me/quickcursor) or [Email](mailto:quickcursor@protonmail.com)
