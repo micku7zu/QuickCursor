@@ -140,7 +140,7 @@ Workaround:
 2. When the click stops working, trigger that action once
 3. The click should start working again
 
-More details here: https://github.com/micku7zu/QuickCursor/issues/29
+More details [here](https://github.com/micku7zu/QuickCursor/issues/29): https://github.com/micku7zu/QuickCursor/issues/29
 
 <br/><br/>
 
