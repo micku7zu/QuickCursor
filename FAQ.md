@@ -41,7 +41,13 @@ If you have the PRO version, you can change the action to something else. Go to 
 
 ## 2. How to swipe, drag & drop or other gestures?
 
-**PRO users only.** 
+In **Android 16+** **real time gestures** are supported but are for **PRO users only**: 
+
+Go to Quick Cursor Settings -> Tap behaviour -> Long tap action -> **Real-time gestures**.
+
+Hold the tracker and you can swipe/drag & drop/scroll at the cursor position.
+
+In **Android 15 or older**, only Gesture recorder (free) or some prerecorded actions (PRO) are available:
 
 Go to Quick Cursor Settings -> Tap behaviour -> Long tap action -> **Start gesture recorder**.
 
@@ -59,7 +65,7 @@ Issues:
 
 <hr />
 
-**There are also some prerecorded** gestures available that can be dispatched instantly.
+**There are also some prerecorded** gestures available that can be dispatched instantly (PRO only).
 
 Go to Quick Cursor Settings -> Tap behaviour -> Long tap action -> **Open tracker actions once**
 
